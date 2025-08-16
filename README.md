@@ -110,12 +110,15 @@ Try these example prompts:
 
 Create a Colab notebook with the following setup:
 
-`# Install dependencies
-!pip install gradio diffusers torch transformers accelerate speechrecognition pillow
+1. Install dependencies:
+   
+   `!pip install gradio diffusers torch transformers accelerate speechrecognition pillow`
 
-# Clone your repo
-!git clone https://github.com/0xUjwal/Acoustic-Artistry.git
-%cd Acoustic-Artistry
+2. Clone your repo:
+   
+   `!git clone https://github.com/0xUjwal/Acoustic-Artistry.git
+     %cd Acoustic-Artistry`
 
-# Run the app
-!python app.py`
+3. Run the app:
+
+   `!python app.py`
