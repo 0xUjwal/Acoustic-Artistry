@@ -40,11 +40,7 @@ Try these example prompts:
 🚀 Quick Start
 --------------
 
-### Option 1: Run on Hugging Face Spaces (Recommended)
-
-Click here to run the app: [🤗 Hugging Face Space](https://huggingface.co/spaces/yourusername/acoustic-artistry)
-
-### Option 2: Local Installation
+### Local Installation
 
 1.  Clone the repository:
 
